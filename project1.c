@@ -98,7 +98,7 @@ int main (){
                     d=c*7.30738482;
                     printf("%.2lf EUR= %.2lf CNY",c,d);}
             break;
-//Mass 
+        
         case 'M':
         case 'm':
             printf("Choose:\n");
