@@ -7,7 +7,7 @@ The Unit Converter is a simple C program designed to convert between different u
 Celsius to Fahrenheit
 Fahrenheit to Celsius
 **Currency Conversion**
-Euros to USD
+Euros to USD 
 Euros to GBP
 Euros to CNY
 **Mass Conversion**
