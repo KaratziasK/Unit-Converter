@@ -3,14 +3,14 @@
 The Unit Converter is a simple C program designed to convert between different units of temperature, currency, and mass. Users can select the type of conversion they want to perform and input the values they need to convert. The program ensures valid inputs and provides accurate conversions.
 
 ## Features
-Temperature Conversion
+**Temperature Conversion**
 Celsius to Fahrenheit
 Fahrenheit to Celsius
-Currency Conversion
+**Currency Conversion**
 Euros to USD
 Euros to GBP
 Euros to CNY
-Mass Conversion
+**Mass Conversion**
 Kilograms to Pounds
 Grams to Ounces
 
